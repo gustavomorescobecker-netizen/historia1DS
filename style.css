@@ -9,3 +9,7 @@
 --titulo: "Montserrat", sans-serif;
 --texto: "SUSE Mono", sans-serif; 
 }
+body{
+    background-color: var(--process-cyan);
+    font-family:var(--texto);
+}
